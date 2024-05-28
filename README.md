@@ -12,7 +12,7 @@ Follow the steps in the Click behavior app codelab (https://developer.android.co
 - Add additional step to add mint to lemonade
 
 ## Demonstration video
-
+https://github.com/JoyZhang2023/Lemonade_AndroidApp/assets/137982978/320a4fb5-74b6-4257-89b3-b1dd7506e7c0
 
 ## APK file
 Directory: app/build/ouptuts/apk
